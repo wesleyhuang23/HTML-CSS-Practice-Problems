@@ -12,7 +12,7 @@
 .content-left {
     width: 33.3%;
     /*this height is a placeholder. You will need to make some adjustment to get this container to look like the design */
-    height: 500px;
+    height: 600px;
     float: left;
     background: #565555;
 }
@@ -23,7 +23,7 @@
 .content-mid {
     width: 100%;
     /*this height is a placeholder. You will need to make some adjustment to get this container to look like the design */
-    height: 500px;
+    height: 600px;
 
     background: #B0B0B0;
 
